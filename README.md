@@ -1,1 +1,1 @@
-# long.c
+# ProjetoBaseadoNoSuperTrunfo
